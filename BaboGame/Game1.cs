@@ -16,7 +16,19 @@ namespace BaboGame
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            // prova comment
+            // prova comment testing
+
+
+
+
+
+
+
+
+
+
+
+
         }
 
         /// <summary>
